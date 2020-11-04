@@ -8,7 +8,7 @@ Customer can be show product which added cart in side cart there customer can be
 
 
 
-**[Woocommerce Floating Cart]](https://wordpress.org/plugins/side-cart-for-woocommerce/)** Allow checkout , ajax on add to cart come up **[Popup of Woocommerce Cart](https://wordpress.org/plugins/side-cart-for-woocommerce/)**.
+**[Woocommerce Floating Cart](https://wordpress.org/plugins/side-cart-for-woocommerce/)** Allow checkout , ajax on add to cart come up **[Popup of Woocommerce Cart](https://wordpress.org/plugins/side-cart-for-woocommerce/)**.
 
 > **Side Cart Woocommerce Plugin Features**
 >
