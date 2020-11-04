@@ -1,4 +1,4 @@
-
+<h1>Woocommerce Floating Cart</h1>
 **Side Cart For Woocommerce** Show side cart in website . when your add to cart product auto open side cart popup with animation in your [Woocommerce](https://en.wikipedia.org/wiki/WooCommerce) Website.
 
 **[Demo Side Cart Woocommerce](http://oceanwebguru.com/shop/)**
