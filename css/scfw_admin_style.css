@@ -1,0 +1,71 @@
+.wfc-container ul.tabs{
+      margin: 0px;
+    padding: 0px;
+    list-style: none;
+    border-bottom: 1px solid #ccc;
+}
+.wfc-container ul.tabs li{
+    color: #222;
+    display: inline-block;
+    padding: 10px 15px;
+    width: auto;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+    border: 1px solid #ccc;
+    background: #e5e5e5;
+    margin-bottom: -1px;
+}
+.wfc-container .tab-content{
+    display: none;
+    padding: 15px 0px;
+}
+.wfc-container .tab-content.current{
+    display: inherit;
+}
+.wfc-container {
+    margin-top: 20px;
+    width: 80%;
+}
+.wfc-container h2 {
+    margin: 0px 0px;
+    padding: 10px 10px;
+    background-color: #4a85b9;
+    color: #fff;
+    text-transform: uppercase;
+}
+.cover_div {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+.wfc-container ul.tabs li.current{
+    border-bottom: 1px solid #f1f1f1;
+    background: #f1f1f1;
+}
+table.data_table {
+    display: inline-block;
+    padding: 0px 10px;
+}
+.data_table tr th, .data_table tr td{
+    text-align: left;
+    width: auto;
+}
+.data_table tr{
+    line-height: 35px;
+}
+.data_table tr th{
+    min-width: 250px;
+}
+.data_table select, .data_table input[type="color"], .data_table input[type="number"]{
+    width: 100%;
+}
+.data_table strong {
+    vertical-align: middle;
+}
+label.ocsc_pro_link {
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+}
